@@ -1,0 +1,20 @@
+# Visual Studio / Windows
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.obj
+*.exe
+
+# Qt Generated Files (Don't track files the compiler makes)
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+*_qmlcache.qrc
+
+# OS Specific
+.DS_Store
+Thumbs.db
